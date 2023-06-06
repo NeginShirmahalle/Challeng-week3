@@ -89,4 +89,13 @@
   .email-link:hover {
     text-decoration: underline;
   }
+  @media (max-width: 747px) {
+    .image {
+        display: none;
+      
+    }
+    p {
+        width: 100%;
+    }
+  }
   
